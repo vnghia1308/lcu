@@ -1,0 +1,1586 @@
+[
+    {
+        "itemId": 26040,
+        "inventoryType": "COMPANION",
+        "itemName": "Umbra Lặn Sâu  1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 47007,
+        "inventoryType": "COMPANION",
+        "itemName": "Prancie Cuồng Long 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 6045,
+        "inventoryType": "COMPANION",
+        "itemName": "Cánh Cụt Phong Linh Trạng Nguyên 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 27010,
+        "inventoryType": "COMPANION",
+        "itemName": "Choncc Dung Nham 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 42010,
+        "inventoryType": "COMPANION",
+        "itemName": "Mỏ Vịt Tiệc Ngủ 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 52007,
+        "inventoryType": "COMPANION",
+        "itemName": "Bun Bun Thỏ Ngọc 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 62004,
+        "inventoryType": "COMPANION",
+        "itemName": "Cua Lực Sĩ 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 72001,
+        "inventoryType": "COMPANION",
+        "itemName": "Thiết Khuyển 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 26037,
+        "inventoryType": "COMPANION",
+        "itemName": "Umbra Cháy Nắng 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 47010,
+        "inventoryType": "COMPANION",
+        "itemName": "Prancie Ngọc Long 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 6042,
+        "inventoryType": "COMPANION",
+        "itemName": "Cánh Cụt Viêm Hỏa Trạng Nguyên 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 72004,
+        "inventoryType": "COMPANION",
+        "itemName": "Thiết Khuyển Bão Tố 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 62007,
+        "inventoryType": "COMPANION",
+        "itemName": "Cua Hoạt Bát 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 27007,
+        "inventoryType": "COMPANION",
+        "itemName": "Choncc Thổ Thần 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 42013,
+        "inventoryType": "COMPANION",
+        "itemName": "Mỏ Vịt Hảo Ngọt 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 26034,
+        "inventoryType": "COMPANION",
+        "itemName": "Umbra Sinh Tố Trái Cây 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 6039,
+        "inventoryType": "COMPANION",
+        "itemName": "Cánh Cụt Hắc Ám Trạng Nguyên 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 72007,
+        "inventoryType": "COMPANION",
+        "itemName": "Thiết Khuyển Hắc Linh 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 42016,
+        "inventoryType": "COMPANION",
+        "itemName": "Mỏ Vịt Zaun 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 27004,
+        "inventoryType": "COMPANION",
+        "itemName": "Choncc Đại Dương 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 52013,
+        "inventoryType": "COMPANION",
+        "itemName": "Bun Bun Vũ Điệu Sắc Màu 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 62010,
+        "inventoryType": "COMPANION",
+        "itemName": "Cua Siêu Cấp 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 22022,
+        "inventoryType": "COMPANION",
+        "itemName": "Kỳ Lân K/DA POP/STARS 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 42001,
+        "inventoryType": "COMPANION",
+        "itemName": "Mỏ Vịt 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 2026,
+        "inventoryType": "COMPANION",
+        "itemName": "Cánh Bạc Địa Ngục 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 26046,
+        "inventoryType": "COMPANION",
+        "itemName": "Umbra Pentakill 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 22019,
+        "inventoryType": "COMPANION",
+        "itemName": "Kỳ Lân K/DA ALL OUT 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 47001,
+        "inventoryType": "COMPANION",
+        "itemName": "Prancie 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 6051,
+        "inventoryType": "COMPANION",
+        "itemName": "Cánh Cụt Thủy Hoa Trạng Nguyên 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 2023,
+        "inventoryType": "COMPANION",
+        "itemName": "Cánh Bạc Phong Vân 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 42004,
+        "inventoryType": "COMPANION",
+        "itemName": "Mỏ Vịt Ong Mật 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 17019,
+        "inventoryType": "COMPANION",
+        "itemName": "Bé Bọ Vệ Binh 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 52001,
+        "inventoryType": "COMPANION",
+        "itemName": "Bun Bun 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 26043,
+        "inventoryType": "COMPANION",
+        "itemName": "Umbra Lửa Trầm 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 47004,
+        "inventoryType": "COMPANION",
+        "itemName": "Prancie Cá Koi 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 6048,
+        "inventoryType": "COMPANION",
+        "itemName": "Cánh Cụt Địa Thạch Trạng Nguyên 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 52004,
+        "inventoryType": "COMPANION",
+        "itemName": "Bun Bun Socola Mũm Mĩm 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 62001,
+        "inventoryType": "COMPANION",
+        "itemName": "Cua Kỳ Cục 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 42007,
+        "inventoryType": "COMPANION",
+        "itemName": "Mỏ Vịt Shipper 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 27013,
+        "inventoryType": "COMPANION",
+        "itemName": "Choncc Gấu Trúc 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 22031,
+        "inventoryType": "COMPANION",
+        "itemName": "Kỳ Lân Vũ Khí Tối Thượng 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 12034,
+        "inventoryType": "COMPANION",
+        "itemName": "Shisa Xí Xớn 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 27028,
+        "inventoryType": "COMPANION",
+        "itemName": "Choncc Cứu Hộ 1 Sao ",
+        "rp": 925
+    },
+    {
+        "itemId": 2035,
+        "inventoryType": "COMPANION",
+        "itemName": "Cánh Bạc Cổ Đại 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 26055,
+        "inventoryType": "COMPANION",
+        "itemName": "Umbra Disco 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 22028,
+        "inventoryType": "COMPANION",
+        "itemName": "Kỳ Lân Công Nghệ 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 18001,
+        "inventoryType": "COMPANION",
+        "itemName": "Người Đá 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 43001,
+        "inventoryType": "COMPANION",
+        "itemName": "Burno 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 27025,
+        "inventoryType": "COMPANION",
+        "itemName": "Choncc Tiệc Bãi Biển ",
+        "rp": 925
+    },
+    {
+        "itemId": 13001,
+        "inventoryType": "COMPANION",
+        "itemName": "Ossia 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 2032,
+        "inventoryType": "COMPANION",
+        "itemName": "Cánh Bạc Sơn Thạch 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 26052,
+        "inventoryType": "COMPANION",
+        "itemName": "Umbra Emo 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 8001,
+        "inventoryType": "COMPANION",
+        "itemName": "Rùa Ngọc Thạch 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 22025,
+        "inventoryType": "COMPANION",
+        "itemName": "Kỳ Lân Nóng Bỏng 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 12028,
+        "inventoryType": "COMPANION",
+        "itemName": "Shisa Chiến Giáp 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 53001,
+        "inventoryType": "COMPANION",
+        "itemName": "Whisker 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 43004,
+        "inventoryType": "COMPANION",
+        "itemName": "Burno Phun Lửa 1 Sao ",
+        "rp": 750
+    },
+    {
+        "itemId": 2029,
+        "inventoryType": "COMPANION",
+        "itemName": "Cánh Bạc Đại Dương 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 3001,
+        "inventoryType": "COMPANION",
+        "itemName": "Quái Sừng Dung Nham 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 47016,
+        "inventoryType": "COMPANION",
+        "itemName": "Prancie Băng Giá 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 27037,
+        "inventoryType": "COMPANION",
+        "itemName": "Choncc Tay Trống Cừ Khôi 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 52016,
+        "inventoryType": "COMPANION",
+        "itemName": "Bun Bun Chuối 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 62013,
+        "inventoryType": "COMPANION",
+        "itemName": "Cua Vệ Binh Tinh Tú 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 42019,
+        "inventoryType": "COMPANION",
+        "itemName": "Mỏ Vịt Piltover 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 22037,
+        "inventoryType": "COMPANION",
+        "itemName": "Kỳ Lân Cầu Vồng 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 72010,
+        "inventoryType": "COMPANION",
+        "itemName": "Thiết Khuyển Bạch Linh 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 12040,
+        "inventoryType": "COMPANION",
+        "itemName": "Shisa Siêu Đầu Bếp 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 12037,
+        "inventoryType": "COMPANION",
+        "itemName": "Shisa Định Mệnh Thiên Hà 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 22034,
+        "inventoryType": "COMPANION",
+        "itemName": "Kỳ Lân Sành Điệu 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 72013,
+        "inventoryType": "COMPANION",
+        "itemName": "Thiết Khuyển Kim Giáp 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 27031,
+        "inventoryType": "COMPANION",
+        "itemName": "Choncc Cháy Nắng 1 Sao ",
+        "rp": 925
+    },
+    {
+        "itemId": 27046,
+        "inventoryType": "COMPANION",
+        "itemName": "Choncc Pentakill 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 63010,
+        "inventoryType": "COMPANION",
+        "itemName": "Shork Vệ Binh Tinh Tú 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 53013,
+        "inventoryType": "COMPANION",
+        "itemName": "Whisker Tinh Tú Lụi Tàn 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 43016,
+        "inventoryType": "COMPANION",
+        "itemName": "SIÊU PHẨM: Burno 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 78007,
+        "inventoryType": "COMPANION",
+        "itemName": "Đế Giang Nở Rộ 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 18019,
+        "inventoryType": "COMPANION",
+        "itemName": "Người Đá Vệ Binh 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 8022,
+        "inventoryType": "COMPANION",
+        "itemName": "Rùa Địa Thạch Trạng Nguyên 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 3023,
+        "inventoryType": "COMPANION",
+        "itemName": "Quái Sừng K/DA POP/STARS 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 27043,
+        "inventoryType": "COMPANION",
+        "itemName": "Choncc Bậc Thầy Mix Nhạc 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 43019,
+        "inventoryType": "COMPANION",
+        "itemName": "Burno Chiến Giáp 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 63013,
+        "inventoryType": "COMPANION",
+        "itemName": "Shork Tinh Tú Lụi Tàn 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 78010,
+        "inventoryType": "COMPANION",
+        "itemName": "Đế Giang Tinh Linh Song Sinh 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 8019,
+        "inventoryType": "COMPANION",
+        "itemName": "Rùa Thủy Hoa Trạng Nguyên 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 3020,
+        "inventoryType": "COMPANION",
+        "itemName": "Quái Sừng K/DA ALL OUT 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 27040,
+        "inventoryType": "COMPANION",
+        "itemName": "Choncc Disco 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 63016,
+        "inventoryType": "COMPANION",
+        "itemName": "Shork Bé Xinh 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 43022,
+        "inventoryType": "COMPANION",
+        "itemName": "Burno Bóng Bẩy 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 3035,
+        "inventoryType": "COMPANION",
+        "itemName": "Quái Sừng Đuổi Sao 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 43007,
+        "inventoryType": "COMPANION",
+        "itemName": "Burno Kẹo Ngọt 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 63001,
+        "inventoryType": "COMPANION",
+        "itemName": "Shork 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 53004,
+        "inventoryType": "COMPANION",
+        "itemName": "Whisker Vệ Binh Tinh Tú 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 19001,
+        "inventoryType": "COMPANION",
+        "itemName": "Bạch Tuộc 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 8031,
+        "inventoryType": "COMPANION",
+        "itemName": "Rùa Phong Linh Trạng Nguyên 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 14001,
+        "inventoryType": "COMPANION",
+        "itemName": "QiQi 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 63004,
+        "inventoryType": "COMPANION",
+        "itemName": "Shork Siêu Cấp 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 53007,
+        "inventoryType": "COMPANION",
+        "itemName": "Whisker Biệt Đội Siêu Đẳng 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 9001,
+        "inventoryType": "COMPANION",
+        "itemName": "Cáo Tiên Nguyệt Dạ 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 4001,
+        "inventoryType": "COMPANION",
+        "itemName": "Chuột Chũi Mũi Mềm 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 8028,
+        "inventoryType": "COMPANION",
+        "itemName": "Rùa Hắc Ám Trạng Nguyên 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 78001,
+        "inventoryType": "COMPANION",
+        "itemName": "Đế Giang 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 43013,
+        "inventoryType": "COMPANION",
+        "itemName": "Burno Thiên Tài 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 53010,
+        "inventoryType": "COMPANION",
+        "itemName": "Whisker Búp Bê 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 8025,
+        "inventoryType": "COMPANION",
+        "itemName": "Rùa Viêm Hỏa Trạng Nguyên 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 29007,
+        "inventoryType": "COMPANION",
+        "itemName": "Tiểu Tiên Cá Thạch Ngọt 1 Sao ",
+        "rp": 750
+    },
+    {
+        "itemId": 3041,
+        "inventoryType": "COMPANION",
+        "itemName": "Quái Sừng Sao Đen Đủi 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 39010,
+        "inventoryType": "COMPANION",
+        "itemName": "Poggles Phun Lửa 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 69001,
+        "inventoryType": "COMPANION",
+        "itemName": "Khat'Sai 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 3038,
+        "inventoryType": "COMPANION",
+        "itemName": "Quái Sừng Sao Sáng 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 29001,
+        "inventoryType": "COMPANION",
+        "itemName": "Tiểu Tiên Cá 1 Sao ",
+        "rp": 750
+    },
+    {
+        "itemId": 39013,
+        "inventoryType": "COMPANION",
+        "itemName": "Poggles Biển Sâu 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 69004,
+        "inventoryType": "COMPANION",
+        "itemName": "Khat'Sai Thủy Quái 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 9022,
+        "inventoryType": "COMPANION",
+        "itemName": "Cáo Tiên U Hồn 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 29016,
+        "inventoryType": "COMPANION",
+        "itemName": "Tiểu Tiên Cá Ma Sứ 1 Sao ",
+        "rp": 925
+    },
+    {
+        "itemId": 19019,
+        "inventoryType": "COMPANION",
+        "itemName": "Bạch Tuộc K/DA ALL OUT 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 43025,
+        "inventoryType": "COMPANION",
+        "itemName": "Burno Siêu Đầu Bếp 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 4022,
+        "inventoryType": "COMPANION",
+        "itemName": "Chuột Chũi Công Lý 1★",
+        "rp": 925
+    },
+    {
+        "itemId": 14019,
+        "inventoryType": "COMPANION",
+        "itemName": "QiQi Tia Chớp 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 29013,
+        "inventoryType": "COMPANION",
+        "itemName": "Tiểu Tiên Cá Lấp Lánh 1 Sao ",
+        "rp": 925
+    },
+    {
+        "itemId": 9019,
+        "inventoryType": "COMPANION",
+        "itemName": "Cáo Tiên Tịnh Hồn 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 39001,
+        "inventoryType": "COMPANION",
+        "itemName": "Poggles 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 3047,
+        "inventoryType": "COMPANION",
+        "itemName": "Quái Sừng Tinh Tú Lụi Tàn 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 29010,
+        "inventoryType": "COMPANION",
+        "itemName": "Tiểu Tiên Cá Bánh Nướng 1 Sao ",
+        "rp": 750
+    },
+    {
+        "itemId": 39004,
+        "inventoryType": "COMPANION",
+        "itemName": "Poggles Ngài Ếch 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 43031,
+        "inventoryType": "COMPANION",
+        "itemName": "Burno Thiên Hà Bất Bại 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 3044,
+        "inventoryType": "COMPANION",
+        "itemName": "Quái Sừng Sao Sớm 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 9031,
+        "inventoryType": "COMPANION",
+        "itemName": "Cáo Tiên Bụi Sao 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 19028,
+        "inventoryType": "COMPANION",
+        "itemName": "Bạch Tuộc Cao Bồi 1★",
+        "rp": 925
+    },
+    {
+        "itemId": 15001,
+        "inventoryType": "COMPANION",
+        "itemName": "Melisma 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 14028,
+        "inventoryType": "COMPANION",
+        "itemName": "QiQi Giả Lập 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 10001,
+        "inventoryType": "COMPANION",
+        "itemName": "Dango 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 19025,
+        "inventoryType": "COMPANION",
+        "itemName": "Bạch Tuộc Xương Rồng 1★",
+        "rp": 925
+    },
+    {
+        "itemId": 9028,
+        "inventoryType": "COMPANION",
+        "itemName": "Cáo Tiên K/DA POP/STARS 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 5001,
+        "inventoryType": "COMPANION",
+        "itemName": "Tinh Linh Cổ Ngữ 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 14025,
+        "inventoryType": "COMPANION",
+        "itemName": "QiQi Công Nghệ 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 4028,
+        "inventoryType": "COMPANION",
+        "itemName": "Chuột Chũi Hỗn Loạn 1★",
+        "rp": 925
+    },
+    {
+        "itemId": 9025,
+        "inventoryType": "COMPANION",
+        "itemName": "Cáo Tiên K/DA ALL OUT 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 40001,
+        "inventoryType": "COMPANION",
+        "itemName": "Kỳ Nhông 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 19022,
+        "inventoryType": "COMPANION",
+        "itemName": "Bạch Tuộc K/DA POP/STARS 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 14022,
+        "inventoryType": "COMPANION",
+        "itemName": "QiQi Sành Điệu 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 4025,
+        "inventoryType": "COMPANION",
+        "itemName": "Chuột Chũi Thiết Giáp 1★",
+        "rp": 925
+    },
+    {
+        "itemId": 19037,
+        "inventoryType": "COMPANION",
+        "itemName": "Bạch Tuộc Vô Pháp 1★",
+        "rp": 925
+    },
+    {
+        "itemId": 9040,
+        "inventoryType": "COMPANION",
+        "itemName": "Cáo Tiên Vệ Binh Đáng Yêu 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 25007,
+        "inventoryType": "COMPANION",
+        "itemName": "Ao Shin Pháo Hoa 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 69007,
+        "inventoryType": "COMPANION",
+        "itemName": "Khat'Sai Kháng Ma 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 39016,
+        "inventoryType": "COMPANION",
+        "itemName": "Poggles Kẹo Ngọt 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 30004,
+        "inventoryType": "COMPANION",
+        "itemName": "Fenroar Sa Mạc 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 9037,
+        "inventoryType": "COMPANION",
+        "itemName": " Cáo Tiên Bắt Mây 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 19034,
+        "inventoryType": "COMPANION",
+        "itemName": "Bạch Tuộc Bắp Ngô 1★",
+        "rp": 925
+    },
+    {
+        "itemId": 25004,
+        "inventoryType": "COMPANION",
+        "itemName": "Ao Shin Ngàn Tuổi 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 69010,
+        "inventoryType": "COMPANION",
+        "itemName": "Khat'Sai Kẹo Ngọt 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 30001,
+        "inventoryType": "COMPANION",
+        "itemName": "Fenroar 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 19031,
+        "inventoryType": "COMPANION",
+        "itemName": "Bạch Tuộc Công Lý 1★",
+        "rp": 925
+    },
+    {
+        "itemId": 9034,
+        "inventoryType": "COMPANION",
+        "itemName": "Cáo Tiên Hỏa Hồ Ly 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 25001,
+        "inventoryType": "COMPANION",
+        "itemName": "Ao Shin 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 20001,
+        "inventoryType": "COMPANION",
+        "itemName": "Hiệp Sĩ Cú 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 14031,
+        "inventoryType": "COMPANION",
+        "itemName": "QiQi Vũ Khí Tối Thượng 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 69013,
+        "inventoryType": "COMPANION",
+        "itemName": "Khat'Sai Vũ Trụ 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 15019,
+        "inventoryType": "COMPANION",
+        "itemName": "Melisma Tịnh Hồn 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 40013,
+        "inventoryType": "COMPANION",
+        "itemName": "Kỳ Nhông Thanh Long 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 30013,
+        "inventoryType": "COMPANION",
+        "itemName": "Fenroar Ma Sứ 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 65007,
+        "inventoryType": "COMPANION",
+        "itemName": "Chim Biến Dị Siêu Cay 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 55010,
+        "inventoryType": "COMPANION",
+        "itemName": "Grizzle Hắc Tinh 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 25013,
+        "inventoryType": "COMPANION",
+        "itemName": "Ao Shin Thần Giới 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 40016,
+        "inventoryType": "COMPANION",
+        "itemName": "Kỳ Nhông Công Nghệ 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 30010,
+        "inventoryType": "COMPANION",
+        "itemName": "Fenroar Thiên Sứ 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 9043,
+        "inventoryType": "COMPANION",
+        "itemName": "Cáo Tiên Tinh Tú Lụi Tàn 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 19040,
+        "inventoryType": "COMPANION",
+        "itemName": "Bạch Tuộc Công Lý Thiên Hà 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 65010,
+        "inventoryType": "COMPANION",
+        "itemName": "Koi Biến Dị 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 29037,
+        "inventoryType": "COMPANION",
+        "itemName": "Tiểu Tiên Cá Sơn Hải Họa Thần 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 55013,
+        "inventoryType": "COMPANION",
+        "itemName": "Grizzle Âm Nhạc 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 25010,
+        "inventoryType": "COMPANION",
+        "itemName": "Ao Shin Hắc Tinh 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 40019,
+        "inventoryType": "COMPANION",
+        "itemName": "Kỳ Nhông Hóa Kỹ 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 30007,
+        "inventoryType": "COMPANION",
+        "itemName": "Fenroar Hoàng Kim 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 65013,
+        "inventoryType": "COMPANION",
+        "itemName": "Chim Biến Dị Shurima 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 11001,
+        "inventoryType": "COMPANION",
+        "itemName": "Fuwa 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 30022,
+        "inventoryType": "COMPANION",
+        "itemName": "Fenroar Hỏa Tiễn 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 6001,
+        "inventoryType": "COMPANION",
+        "itemName": "Hiệp Sĩ Cánh Cụt Pengu 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 29049,
+        "inventoryType": "COMPANION",
+        "itemName": "Tiểu Tiên Cá Thủy Kiếm 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 19052,
+        "inventoryType": "COMPANION",
+        "itemName": "Bạch Tuộc Chiến Giáp 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 55001,
+        "inventoryType": "COMPANION",
+        "itemName": "Grizzle 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 25022,
+        "inventoryType": "COMPANION",
+        "itemName": "Ao Shin Phong Linh Trạng Nguyên 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 1001,
+        "inventoryType": "COMPANION",
+        "itemName": "Hồn Ma Quần Đảo Bóng Đêm 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 40007,
+        "inventoryType": "COMPANION",
+        "itemName": "Kỳ Nhông Lung Linh 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 30019,
+        "inventoryType": "COMPANION",
+        "itemName": "Fenroar Nước Ngọt 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 65001,
+        "inventoryType": "COMPANION",
+        "itemName": "Chim Biến Dị 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 55004,
+        "inventoryType": "COMPANION",
+        "itemName": "Grizzle Biệt Đội Siêu Đẳng 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 19049,
+        "inventoryType": "COMPANION",
+        "itemName": "Bạch Tuộc Bảnh Chọe 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 25019,
+        "inventoryType": "COMPANION",
+        "itemName": "Ao Shin Thủy Hoa Trạng Nguyên 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 15022,
+        "inventoryType": "COMPANION",
+        "itemName": "Melisma U Hồn 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 40010,
+        "inventoryType": "COMPANION",
+        "itemName": "Kỳ Nhông Rio 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 19046,
+        "inventoryType": "COMPANION",
+        "itemName": "Bạch Tuộc Thích Chill 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 65004,
+        "inventoryType": "COMPANION",
+        "itemName": "Chim Toucan Biến Dị 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 55007,
+        "inventoryType": "COMPANION",
+        "itemName": "Grizzle Vệ Binh Tinh Tú 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 29043,
+        "inventoryType": "COMPANION",
+        "itemName": "Tiểu Tiên Cá U Hồn - Hoa Linh Lục Địa 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 31004,
+        "inventoryType": "COMPANION",
+        "itemName": "Chuột Nhanh Nhạy Ma Sứ 1 Sao ",
+        "rp": 925
+    },
+    {
+        "itemId": 30031,
+        "inventoryType": "COMPANION",
+        "itemName": "Fenroar Săn Thưởng 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 26004,
+        "inventoryType": "COMPANION",
+        "itemName": "Umbra Sương Đen 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 46001,
+        "inventoryType": "COMPANION",
+        "itemName": "Bungo 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 25031,
+        "inventoryType": "COMPANION",
+        "itemName": "Ao Shin Địa Thạch Trạng Nguyên 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 41004,
+        "inventoryType": "COMPANION",
+        "itemName": "Thạch Dẻo Mật Ong 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 31001,
+        "inventoryType": "COMPANION",
+        "itemName": "Chuột Nhanh Nhạy 1 Sao ",
+        "rp": 750
+    },
+    {
+        "itemId": 30028,
+        "inventoryType": "COMPANION",
+        "itemName": "Fenroar Vũ Khí Tối Thượng 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 26001,
+        "inventoryType": "COMPANION",
+        "itemName": "Umbra 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 46004,
+        "inventoryType": "COMPANION",
+        "itemName": "Bungo Mật Ngọt 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 61001,
+        "inventoryType": "COMPANION",
+        "itemName": "Noctero 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 25028,
+        "inventoryType": "COMPANION",
+        "itemName": "Ao Shin Hắc Ám Trạng Nguyên 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 41007,
+        "inventoryType": "COMPANION",
+        "itemName": "Thạch Dẻo Công Nghệ 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 21001,
+        "inventoryType": "COMPANION",
+        "itemName": "Cá Voi 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 30025,
+        "inventoryType": "COMPANION",
+        "itemName": "Fenroar Công Nghệ 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 66001,
+        "inventoryType": "COMPANION",
+        "itemName": "Poro 1 Sao",
+        "rp": 2500
+    },
+    {
+        "itemId": 16001,
+        "inventoryType": "COMPANION",
+        "itemName": "Gà Máy 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 46007,
+        "inventoryType": "COMPANION",
+        "itemName": "Bungo Hoa Hồng 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 25025,
+        "inventoryType": "COMPANION",
+        "itemName": "Ao Shin Viêm Hỏa Trạng Nguyên 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 1021,
+        "inventoryType": "COMPANION",
+        "itemName": "Hồn Ma Vệ Binh 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 26013,
+        "inventoryType": "COMPANION",
+        "itemName": "Umbra Huyết Nguyệt 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 6019,
+        "inventoryType": "COMPANION",
+        "itemName": "Hiệp Sĩ Cánh Cụt Tịnh Hồn 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 40022,
+        "inventoryType": "COMPANION",
+        "itemName": "Kỳ Nhông Đốm 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 31010,
+        "inventoryType": "COMPANION",
+        "itemName": "Chuột Nhanh Nhạy Nhẫn Giả 1 Sao ",
+        "rp": 750
+    },
+    {
+        "itemId": 26010,
+        "inventoryType": "COMPANION",
+        "itemName": "Umbra Lôi Thần 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 25037,
+        "inventoryType": "COMPANION",
+        "itemName": "Ao Shin Sức Mạnh Hợp Âm 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 31007,
+        "inventoryType": "COMPANION",
+        "itemName": "Chuột Nhanh Nhạy Thiên Thần 1 Sao ",
+        "rp": 925
+    },
+    {
+        "itemId": 26007,
+        "inventoryType": "COMPANION",
+        "itemName": "Umbra Thanh Long 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 41001,
+        "inventoryType": "COMPANION",
+        "itemName": "Thạch Dẻo 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 41019,
+        "inventoryType": "COMPANION",
+        "itemName": "Thạch Dẻo Âm Nhạc 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 6028,
+        "inventoryType": "COMPANION",
+        "itemName": "Hiệp Sĩ Cánh Cụt K/DA POP/STARS 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 71010,
+        "inventoryType": "COMPANION",
+        "itemName": "Cún Sừng Tinh Võ 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 26022,
+        "inventoryType": "COMPANION",
+        "itemName": "Umbra Long Tộc 1★",
+        "rp": 925
+    },
+    {
+        "itemId": 2001,
+        "inventoryType": "COMPANION",
+        "itemName": "Cánh Bạc Demacia 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 25049,
+        "inventoryType": "COMPANION",
+        "itemName": "Ao Shin Emo 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 1028,
+        "inventoryType": "COMPANION",
+        "itemName": "Hồn Ma Đại Dương 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 11025,
+        "inventoryType": "COMPANION",
+        "itemName": "Fuwa Tiên Tộc 1★",
+        "rp": 925
+    },
+    {
+        "itemId": 41022,
+        "inventoryType": "COMPANION",
+        "itemName": "Thạch Dẻo Pizza 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 61016,
+        "inventoryType": "COMPANION",
+        "itemName": "Noctero Siêu Cấp 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 71013,
+        "inventoryType": "COMPANION",
+        "itemName": "Cún Sừng Điện Xẹt 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 26019,
+        "inventoryType": "COMPANION",
+        "itemName": "Umbra Công Lý 1★",
+        "rp": 925
+    },
+    {
+        "itemId": 6025,
+        "inventoryType": "COMPANION",
+        "itemName": "Hiệp Sĩ Cánh Cụt K/DA ALL OUT 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 1025,
+        "inventoryType": "COMPANION",
+        "itemName": "Hồn Ma Cổ Đại 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 25046,
+        "inventoryType": "COMPANION",
+        "itemName": "Ao Shin Bậc Thầy Mix Nhạc 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 11022,
+        "inventoryType": "COMPANION",
+        "itemName": "Fuwa Công Lý 1★",
+        "rp": 925
+    },
+    {
+        "itemId": 6022,
+        "inventoryType": "COMPANION",
+        "itemName": "Hiệp Sĩ Cánh Cụt U Hồn 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 25043,
+        "inventoryType": "COMPANION",
+        "itemName": "Ao Shin Disco 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 1022,
+        "inventoryType": "COMPANION",
+        "itemName": "Hồn Ma Địa Ngục 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 31013,
+        "inventoryType": "COMPANION",
+        "itemName": "Chuột Nhanh Nhạy Tiên Tộc 1 Sao ",
+        "rp": 750
+    },
+    {
+        "itemId": 41010,
+        "inventoryType": "COMPANION",
+        "itemName": "Thạch Dẻo Nóng Bỏng 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 61004,
+        "inventoryType": "COMPANION",
+        "itemName": "Noctero Vũ Khí Tối Thượng 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 26031,
+        "inventoryType": "COMPANION",
+        "itemName": "Umbra Cứu Hộ 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 71001,
+        "inventoryType": "COMPANION",
+        "itemName": "Cún Sừng 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 46010,
+        "inventoryType": "COMPANION",
+        "itemName": "Bungo Ngọc Long 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 27001,
+        "inventoryType": "COMPANION",
+        "itemName": "Choncc 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 71004,
+        "inventoryType": "COMPANION",
+        "itemName": "Cún Sừng Bắp Ngô 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 61007,
+        "inventoryType": "COMPANION",
+        "itemName": "Noctero Vệ Binh Tinh Tú 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 26028,
+        "inventoryType": "COMPANION",
+        "itemName": "Umbra Bé Cá Mập 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 46013,
+        "inventoryType": "COMPANION",
+        "itemName": "Bungo Thượng Long 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 1034,
+        "inventoryType": "COMPANION",
+        "itemName": "Hồn Ma Phong Vân 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 17001,
+        "inventoryType": "COMPANION",
+        "itemName": "Bé Bọ 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 71007,
+        "inventoryType": "COMPANION",
+        "itemName": "Cún Sừng Bánh Mỳ 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 41016,
+        "inventoryType": "COMPANION",
+        "itemName": "Thạch Dẻo Ngọt Ngào 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 61010,
+        "inventoryType": "COMPANION",
+        "itemName": "Noctero Tinh Tú Lụi Tàn 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 26025,
+        "inventoryType": "COMPANION",
+        "itemName": "Umbra Hỗn Loạn 1★",
+        "rp": 925
+    },
+    {
+        "itemId": 12001,
+        "inventoryType": "COMPANION",
+        "itemName": "Shisa 1 Sao",
+        "rp": 750
+    },
+    {
+        "itemId": 1031,
+        "inventoryType": "COMPANION",
+        "itemName": "Hồn Ma Sơn Thạch 1 Sao",
+        "rp": 925
+    },
+    {
+        "itemId": 11028,
+        "inventoryType": "COMPANION",
+        "itemName": "Fuwa Hỗn Loạn 1★",
+        "rp": 925
+    },
+    {
+        "itemId": 7001,
+        "inventoryType": "COMPANION",
+        "itemName": "Hộ Vệ Đá Quý 1 Sao",
+        "rp": 750
+    }
+]
