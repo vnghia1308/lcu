@@ -1,5 +1,11 @@
 [
     {
+        "itemId": 3333043,
+        "inventoryType": "EVENT_PASS",
+        "itemName": "Vé TFT (2024)",
+        "rp": 1295
+    },
+    {
         "itemId": 26040,
         "inventoryType": "COMPANION",
         "itemName": "Umbra Lặn Sâu  1 Sao",
