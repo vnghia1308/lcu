@@ -1,10 +1,22 @@
 [
     {
-        "name": "Akali Live Background",
+        "name": "Akali",
         "source": "https://moewalls.com/wp-content/uploads/preview/2024/akali-league-of-legends-preview.webm"
     },
     {
-        "name": "Ahri Live Background",
+        "name": "Ahri",
         "source": "https://moewalls.com/wp-content/uploads/preview/2025/ahri-the-nine-tailed-fox-league-of-legends-preview.webm"
+    },
+    {
+        "name": "Gwen",
+        "source": "https://moewalls.com/wp-content/uploads/preview/2025/gwen-league-of-legends-preview.webm"
+    },
+    {
+        "name": "Halloween Ghost Ahri",
+        "source": "https://moewalls.com/wp-content/uploads/preview/2024/halloween-ghost-ahri-league-of-legends-preview.webm"
+    },
+    {
+        "name": "Syndra",
+        "source": "https://moewalls.com/wp-content/uploads/preview/2024/syndra-league-of-legends-preview.webm"
     }
 ]
