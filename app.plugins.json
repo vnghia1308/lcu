@@ -2,6 +2,7 @@
     {
         "id": "hide-mastery-script",
         "name": "Ẩn thông thạo",
+        "descripton": "Ẩn mục rank, thông thạo, cúp,...",
         "source": "https://example.com/test.js"
     }
 ]
