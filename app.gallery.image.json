@@ -1,6 +1,22 @@
 [
     {
-        "name": "Ahri Background",
+        "name": "Ahri",
+        "thumbnail": "https://4kwallpapers.com/images/walls/thumbs_2t/15069.jpg",
         "source": "https://4kwallpapers.com/images/wallpapers/ahri-nine-tailed-3840x2160-15069.jpg"
+    },
+    {
+        "name": "K/DA Ahri",
+        "thumbnail": "https://4kwallpapers.com/images/walls/thumbs_2t/19162.jpg",
+        "source": "https://4kwallpapers.com/images/wallpapers/ahri-kda-league-of-3840x2160-19162.jpg"
+    },
+    {
+        "name": "Miss Fortune",
+        "thumbnail": "https://4kwallpapers.com/images/walls/thumbs_2t/15102.jpg",
+        "source": "https://4kwallpapers.com/images/wallpapers/miss-fortune-bounty-3840x2160-15102.jpg"
+    },
+    {
+        "name": "Jinx & Vi",
+        "thumbnail": "https://4kwallpapers.com/images/walls/thumbs_2t/7581.jpg",
+        "source": "https://4kwallpapers.com/images/wallpapers/arcane-league-of-legends-vi-jinx-fan-art-3840x2160-7581.jpg"
     }
 ]
