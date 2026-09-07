@@ -1,4 +1,4 @@
-# League Extensions
-Một công cụ được tạo ra với sứ mệnh tăng trải nghiệm người dùng **Liên Minh Huyền Thoại** lên một tầm cao mới. Luôn luôn miễn phí, tiện lợi và minh bạch!
+# League Extensions 4
+An application that brings innovative experiences to League of Legends. Safe, easy to use, and transparent
 
-![Screenshot](https://i.imgur.com/DP67R9v.png)
+![Screenshot](https://i.ibb.co/dJ043cJj/Untitled.png)
